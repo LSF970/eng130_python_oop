@@ -1,7 +1,9 @@
 from reptile import Reptile
 
 class Snake(Reptile):
+
     def __int__(self):
+        super().__init__()
         self.cold_blooded = True
         self.forked_tongue = True
         self.venom = bool

@@ -94,6 +94,7 @@ print(add(2321, 2324))
 # Shows DRY - we can now reuse the function as many times as we like, with new args
 
 ```
+![](C:\Users\Luke\Documents\Python_notes\OOP_Python.png)
 
 
 

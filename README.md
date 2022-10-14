@@ -94,7 +94,17 @@ print(add(2321, 2324))
 # Shows DRY - we can now reuse the function as many times as we like, with new args
 
 ```
+## Understanding The pillars of OOP
+### Animal to Python example
 ![](https://github.com/LSF970/eng130_python_oop/blob/main/images/OOP_Python.png)
+
+
+## Blueprint
+ 
+- Step 1: create animal.py as parent
+- Step 2: create reptile.py as child to inherit , abstract etc.
+- Step 3: create snake.py and inherit from reptile.py
+- Step 4: create python_oop.py and inherit from snake.py
 
 
 

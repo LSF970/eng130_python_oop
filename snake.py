@@ -14,8 +14,8 @@ class Snake(Reptile):
 
 adder = Snake()
 
-print(adder.use_tongue_to_smell()) # Method only available to Snake
-print(adder.hunt()) # Method available to Reptile objects
-print(adder.eat()) # Method available to Animal objects
+# print(adder.use_tongue_to_smell()) # Method only available to Snake
+# print(adder.hunt()) # Method available to Reptile objects
+# print(adder.eat()) # Method available to Animal objects
 
 # Add all of these into a fourth class and add this to documentation
